@@ -18,10 +18,10 @@ $ now -e SLACK_API_TOKEN="<token>" -e SLACK_SUBDOMAIN="<team-name>" now-examples
 
 Other platforms:
 
-- [Heroku](https://heroku.com/deploy?template=https://github.com/rauchg/slackin/tree/master)
+- [Heroku](https://heroku.com/deploy?template=https://github.com/spaceappsnyc/slackin-spaceappsnyc2017/tree/master)
 - [Azure](https://azuredeploy.net/)
 - [OpenShift](https://github.com/rauchg/slackin/wiki/OpenShift)
-- [IBM Bluemix](https://bluemix.net/deploy?repository=https://github.com/rauchg/slackin)
+- [IBM Bluemix](https://bluemix.net/deploy?repository=https://github.com/spaceappsnyc/slackin-spaceappsnyc2017)
 
 ### Tips
 
